@@ -1,12 +1,15 @@
 # Gabriel Rodrigues
 
-Desenvolvedor web em Brasília. Na Embratur, trabalho com sites e sistemas em WordPress, Elementor e JetEngine. Também desenvolvo interfaces em JavaScript, Angular e React.
+Desenvolvedor front-end em Brasília. Na Embratur, desenvolvo sites institucionais, plataformas de inscrição e sistemas de gestão de conteúdo.
 
-## Projetos
+[Ver portfólio Grafite](https://gabriel-rodris.github.io/portfolio-web/) · [LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-dev/)
 
-- [Portfólio](https://gabriel-rodris.github.io/portfolio-web/) — projetos profissionais e estudos de desenvolvimento.
-- [Projeto Refund](https://github.com/Gabriel-Rodris/Projeto-Refund) — interface em JavaScript para lançar e totalizar despesas.
-- [Quiz React](https://github.com/Gabriel-Rodris/Quiz-React) — quiz de programação em React, com estado centralizado no Context.
-- [Runecast](https://store.steampowered.com/app/5126340/Runecast/) — jogo de estratégia em Godot da DotSmith, com demo na Steam.
+## Projetos na Embratur
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-dev/) · [Portfólio](https://gabriel-rodris.github.io/portfolio-web/)
+- [Patrocínios Embratur](https://patrocinio.embratur.com.br/) — plataforma de inscrições para o edital público. A interface atual usa React, Vite e Tailwind CSS.
+- [Portal da Embratur com CMS](https://gabriel-rodris.github.io/portfolio-web/#projetos) — site institucional com React, TypeScript e Payload CMS.
+- [EmbraturLAB](https://www.embraturlab.com.br/), [Marca Brasil](https://www.marca.visitbrasil.com/) e [Parques Naturais](https://parquesnaturais.visitbrasil.com/).
+
+## DotSmith
+
+Faço parte da DotSmith, estúdio de jogos independentes. Veja os projetos na Steam: [Runecast](https://store.steampowered.com/app/5126340/Runecast/), [Caçarola](https://store.steampowered.com/app/5370000/Cacarola/) e [Peso Pena](https://store.steampowered.com/app/5296170/).
